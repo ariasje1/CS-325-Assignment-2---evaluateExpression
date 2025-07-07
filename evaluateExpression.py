@@ -25,9 +25,9 @@ def evaluateString(input):
 
 
 # Example run
-if __name__ == "__main__":
-    expr = "12+13+15"
-    result = evaluateString(expr)
-    print(result)  # prints 40
+#if __name__ == "__main__":
+#    expr = "12+13+15"
+#    result = evaluateString(expr)
+#    print(result)  # prints 40
 
 
