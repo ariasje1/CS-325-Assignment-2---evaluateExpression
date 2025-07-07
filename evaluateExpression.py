@@ -1,3 +1,7 @@
+#Author: Jesus Arias
+#GitHub username: ariasje1
+#Date: 07/07/2025
+#Description: Recursive function to evaluate a simple arithmetic expression given as a string containing positive integers separated by the '+' operator.
 def evaluateString(input):
     # Base case: empty string evaluates to 0
     if input == "":
